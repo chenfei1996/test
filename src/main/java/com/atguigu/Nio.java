@@ -41,7 +41,7 @@ public class Nio {
 
         System.out.println("--update-2--");
 
-        System.out.println("--update-branch--");
+        System.out.println("--update-branch-hotfix--");
 
     }
 }
